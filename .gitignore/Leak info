@@ -1,0 +1,270 @@
+Leak by: Anon Leyte 2018
+
+[-] Date & Time: 25/03/2018 10:59:31             
+[-] Target: http://www.leyeco-v.com.ph           
+[M] Website Not in HTTPS: http://www.leyeco-v.com
+[I] Server: lighttpd/1.4.29                      
+[I] X-Powered-By: PHP/5.2.17                     
+[L] X-Frame-Options: Not Enforced                
+[I] Strict-Transport-Security: Not Enforced      
+[I] X-Content-Security-Policy: Not Enforced      
+[I] X-Content-Type-Options: Not Enforced         
+[L] No Robots.txt Found                          
+[I] CMS Detection: Wordpress                     
+[-] Enumerating Wordpress Usernames via "Feed" ..
+[-] Enumerating Wordpress Usernames via "Author" 
+404                                              
+[-] Default WordPress Files:                     
+[-] Interesting Directories/Files ...            
+[L] http://www.leyeco-v.com.ph/stats.txt         
+[L] http://www.leyeco-v.com.ph/webmail.txt       
+[L] http://www.leyeco-v.com.ph/config.php        
+[L] http://www.leyeco-v.com.ph/header.php        
+[L] http://www.leyeco-v.com.ph/footer.php        
+[L] http://www.leyeco-v.com.ph/stats.php         
+[L] http://www.leyeco-v.com.ph/webmail.php       
+[L] http://www.leyeco-v.com.ph/stats/            
+[L] http://www.leyeco-v.com.ph/webmail/          
+[L] http://www.leyeco-v.com.ph/stats.html        
+[L] http://www.leyeco-v.com.ph/test.html         
+[L] http://www.leyeco-v.com.ph/webmail.html      
+[-] Searching Wordpress Plugins ...              
+[I] stats                                        
+[I] stats-er                                     
+[I] stats-for-s2member                           
+[I] stats-reports                                
+[I] stats-website                                
+[I] stats-widget                                 
+[I] stats-wp                                     
+[I] stats122                                     
+[I] stats173zip                                  
+[I] stats4editors                                
+[I] statsd                                       
+[I] statsfc-fixtures                             
+[I] statsfc-form                                 
+[I] statsfc-live                                 
+[I] statsfc-next-fixture                         
+[I] statsfc-player-rater                         
+[I] statsfc-poll                                 
+[I] statsfc-prediction-league                    
+[I] statsfc-results                              
+[I] statsfc-score-predictor                      
+[I] statsfc-squad-selector                       
+[I] statsfc-table                                
+[I] statsfc-top-scorers                          
+[I] statsjr                                      
+[I] statsurfer                                   
+[-] Searching Wordpress Themes ...               
+[-] Searching Wordpress TimThumbs ...            
+[I] Checking for Directory Listing Enabled ...   
+[-] Date & Time: 25/03/2018 11:25:29             
+[-] Completed in: 0:25:57  
+
+Domain    : www.leyeco-v.com.ph                                                                                                 
+Keyboard  : qwerty                                                                                                              
+At        : 2018-03-25 11:33:06 +0800                                                                                           
+                                                                                                                                
+# Please wait. 200 hostnames to process                                                                                         
+                                                                                                                                
+Typo Type                     Typo                    DNS-A           CC-A                   DNS-MX                       Extn  
+--------------------------------------------------------------------------------------------------------------------------------
+Character Omission            ww.leyeco-v.com.ph      203.119.6.36    ¶ ,                                                 ph    
+Character Omission            www.eyeco-v.com.ph      203.119.4.201   �w,                                                 ph    
+Character Omission            www.leeco-v.com.ph      203.119.4.201   ↨�,                                                 ph    
+Character Omission            www.leyco-v.com.ph      203.119.4.201   ↨�,                                                 ph    
+Character Omission            www.leyec-v.com.ph      203.119.4.201   �w,                                                 ph    
+Character Omission            www.leyeco-.com.ph      203.119.4.201                                                       ph    
+Character Omission            www.leyeco-v.cm.ph      203.119.4.201   AU,AUSTRALIA                                        ph    
+Character Omission            www.leyeco-v.co.ph      203.119.4.201   ▬ ,                                                 ph    
+Character Omission            www.leyeco-v.om.ph      203.119.4.201   CN,CHINA                                            ph    
+Character Omission            www.leyeco-vcom.ph      203.119.4.201   �w,                                                 ph    
+Character Omission            www.leyecov.com.ph      203.119.4.201   ��,                                                 ph    
+Character Omission            www.leyeo-v.com.ph      203.119.4.201   KR,KOREA REPUBLIC OF                                ph    
+Character Omission            www.lyeco-v.com.ph      203.119.4.201   ♂�,                                                 ph    
+Character Omission            wwwleyeco-v.com.ph      203.119.4.201   FR,FRANCE                                           ph    
+Character Repeat              www.leeyeco-v.com.ph    203.119.4.201   FR,FRANCE                                           ph    
+Character Repeat              www.leyecco-v.com.ph    203.119.4.201   .�,                                                 ph    
+Character Repeat              www.leyeco--v.com.ph    203.119.4.201   �w,                                                 ph    
+Character Repeat              www.leyeco-v.ccom.ph    69.16.230.42    CN,CHINA               mx156.hostedmxserver.com     ph    
+Character Repeat              www.leyeco-v.comm.ph    69.16.230.42    ID,INDONESIA           mx156.hostedmxserver.com     ph    
+Character Repeat              www.leyeco-v.coom.ph    69.16.230.42    AU,AUSTRALIA           mx156.hostedmxserver.com     ph    
+Character Repeat              www.leyeco-vv.com.ph    203.119.4.201   ID,INDONESIA                                        ph    
+Character Repeat              www.leyecoo-v.com.ph    203.119.4.201   ö,                                                 ph     
+Character Repeat              www.leyeeco-v.com.ph    203.119.4.201   �v,                                                 ph    
+Character Repeat              www.leyyeco-v.com.ph    203.119.4.201   �w,                                                 ph    
+Character Repeat              www.lleyeco-v.com.ph    203.119.4.201   KH,CAMBODIA                                         ph    
+Character Repeat              wwww.leyeco-v.com.ph    203.119.6.36    UA,UKRAINE                                          ph    
+Character Swap                ww.wleyeco-v.com.ph     203.119.4.201   PK,PAKISTAN                                         ph    
+Character Swap                www.elyeco-v.com.ph     203.119.4.201   ↑ ,                                                 ph    
+Character Swap                www.leeyco-v.com.ph     203.119.4.201   �w,                                                 ph    
+Character Swap                www.leyceo-v.com.ph     203.119.4.201   �w,                                                 ph    
+Character Swap                www.leyec-ov.com.ph     203.119.4.201   KR,KOREA REPUBLIC OF                                ph    
+Character Swap                www.leyeco-.vcom.ph     203.119.4.201   PH,PHILIPPINES                                      ph    
+Character Swap                www.leyeco-v.cmo.ph                     ?                                                   ph    
+Character Swap                www.leyeco-v.ocm.ph     203.119.4.201   ▼�,                                                 ph    
+Character Swap                www.leyeco-vc.om.ph     203.119.4.201   PH,PHILIPPINES                                      ph    
+Character Swap                www.leyecov-.com.ph     203.119.4.201   ��,                                                 ph    
+Character Swap                www.leyeoc-v.com.ph     203.119.4.201   � ,                                                 ph    
+Character Swap                www.lyeeco-v.com.ph     203.119.4.201   KH,CAMBODIA                                         ph    
+Character Swap                wwwl.eyeco-v.com.ph     203.119.4.201   �v,                                                 ph    
+Character Replacement         eww.leyeco-v.com.ph     203.119.6.36    HK,HONG KONG                                        ph    
+Character Replacement         qww.leyeco-v.com.ph     203.119.6.36    ��,                                                 ph    
+Character Replacement         wew.leyeco-v.com.ph     203.119.6.36    ,                                                 ph      
+Character Replacement         wqw.leyeco-v.com.ph     203.119.6.36    AU,AUSTRALIA                                        ph    
+Character Replacement         wwe.leyeco-v.com.ph     203.119.6.36    �w,                                                 ph    
+Character Replacement         wwq.leyeco-v.com.ph     203.119.6.36    �r,                                                 ph    
+Character Replacement         www.keyeco-v.com.ph     203.119.4.201   ��,                                                 ph    
+Character Replacement         www.leteco-v.com.ph     203.119.4.201   ,                                                 ph      
+Character Replacement         www.leueco-v.com.ph     203.119.4.201   �v,                                                 ph    
+Character Replacement         www.leyeci-v.com.ph     203.119.4.201   HK,HONG KONG                                        ph    
+Character Replacement         www.leyeco-b.com.ph     203.119.4.201   � ,                                                 ph    
+Character Replacement         www.leyeco-c.com.ph     203.119.4.201   ► ,                                                 ph    
+Character Replacement         www.leyeco-v.cim.ph     199.59.242.150  PH,PHILIPPINES                                      ph    
+Character Replacement         www.leyeco-v.com.pg                     ?                                                   com.pg
+Character Replacement         www.leyeco-v.con.ph                     ?                                                   ph    
+Character Replacement         www.leyeco-v.cpm.ph     72.52.4.122     PH,PHILIPPINES         localhost                    ph    
+Character Replacement         www.leyeco-v.vom.ph     199.59.242.150  US,UNITED STATES                                    ph    
+Character Replacement         www.leyeco-v.xom.ph     199.59.242.150  CA,CANADA                                           ph    
+Character Replacement         www.leyeco0v.com.ph     203.119.4.201   �↕,                                                 ph    
+Character Replacement         www.leyecp-v.com.ph     203.119.4.201   ��,                                                 ph    
+Character Replacement         www.leyevo-v.com.ph     203.119.4.201   � ,                                                 ph    
+Character Replacement         www.leyexo-v.com.ph     203.119.4.201   CN,CHINA                                            ph    
+Character Replacement         www.leyrco-v.com.ph     203.119.4.201   FR,FRANCE                                           ph    
+Character Replacement         www.leywco-v.com.ph     203.119.4.201   m ,                                                 ph    
+Character Replacement         www.lryeco-v.com.ph     203.119.4.201   ��,                                                 ph    
+Character Replacement         www.lwyeco-v.com.ph     203.119.4.201   �v,                                                 ph    
+Double Character Replacement  eew.leyeco-v.com.ph     203.119.6.36    AU,AUSTRALIA                                        ph    
+Double Character Replacement  qqw.leyeco-v.com.ph     203.119.6.36    JP,JAPAN                                            ph    
+Double Character Replacement  wee.leyeco-v.com.ph     203.119.6.36    BD,BANGLADESH                                       ph    
+Double Character Replacement  wqq.leyeco-v.com.ph     203.119.6.36    �v,                                                 ph    
+Character Insertion           weww.leyeco-v.com.ph    203.119.6.36    HK,HONG KONG                                        ph    
+Character Insertion           wqww.leyeco-v.com.ph    203.119.6.36    CN,CHINA                                            ph    
+Character Insertion           wwew.leyeco-v.com.ph    203.119.6.36    �v,                                                 ph    
+Character Insertion           wwqw.leyeco-v.com.ph    203.119.6.36    ��,                                                 ph    
+Character Insertion           www.leryeco-v.com.ph    203.119.4.201   CN,CHINA                                            ph    
+Character Insertion           www.lewyeco-v.com.ph    203.119.4.201   ��,                                                 ph    
+Character Insertion           www.leyeco-0v.com.ph    203.119.4.201   AU,AUSTRALIA                                        ph    
+Character Insertion           www.leyeco-v.coim.ph    203.119.4.201   �v,                                                 ph    
+Character Insertion           www.leyeco-v.comn.ph    213.186.33.5    AU,AUSTRALIA                                        ph    
+Character Insertion           www.leyeco-v.copm.ph    213.186.33.5    US,UNITED STATES                                    ph    
+Character Insertion           www.leyeco-v.cvom.ph    203.119.4.201   ��,                                                 ph    
+Character Insertion           www.leyeco-v.cxom.ph    203.119.4.201   AU,AUSTRALIA                                        ph    
+Character Insertion           www.leyeco-vb.com.ph    203.119.4.201   AU,AUSTRALIA                                        ph    
+Character Insertion           www.leyeco-vc.com.ph    203.119.4.201   ��,                                                 ph    
+Character Insertion           www.leyecoi-v.com.ph    203.119.4.201   �w,                                                 ph    
+Character Insertion           www.leyecop-v.com.ph    203.119.4.201   �v,                                                 ph    
+Character Insertion           www.leyecvo-v.com.ph    203.119.4.201   � ,                                                 ph    
+Character Insertion           www.leyecxo-v.com.ph    203.119.4.201   § ,                                                 ph    
+Character Insertion           www.leyerco-v.com.ph    203.119.4.201   � ,                                                 ph    
+Character Insertion           www.leyewco-v.com.ph    203.119.4.201   AU,AUSTRALIA                                        ph    
+Character Insertion           www.leyteco-v.com.ph    203.119.4.201   �w,                                                 ph    
+Character Insertion           www.leyueco-v.com.ph    203.119.4.201   � ,                                                 ph    
+Character Insertion           www.lkeyeco-v.com.ph    203.119.4.201   �v,                                                 ph    
+Character Insertion           wwwe.leyeco-v.com.ph    203.119.6.36    �;,                                                 ph    
+Character Insertion           wwwq.leyeco-v.com.ph    203.119.6.36    HK,HONG KONG                                        ph    
+Missing Dot                   wwwwww.leyeco-v.com.ph  203.119.6.36    �;,                                                 ph    
+Singular or Pluralise         com.ph                  203.119.4.7     �↕,                                                 ph    
+Singular or Pluralise         coms.ph                 192.185.129.8                          coms.ph                      ph    
+Vowel Swap                    www.layaco-v.com.ph     203.119.4.201   PH,PHILIPPINES                                      ph    
+Vowel Swap                    www.leyeca-v.cam.ph     72.52.4.122     AU,AUSTRALIA           localhost                    ph    
+Vowel Swap                    www.leyece-v.cem.ph     203.119.4.201   �v,                                                 ph    
+Vowel Swap                    www.leyeci-v.cim.ph     199.59.242.150  HK,HONG KONG                                        ph    
+Vowel Swap                    www.leyecu-v.cum.ph     203.119.4.201   �v,                                                 ph    
+Vowel Swap                    www.liyico-v.com.ph     203.119.4.201   ��,                                                 ph    
+Vowel Swap                    www.loyoco-v.com.ph     203.119.4.201   �w,                                                 ph    
+Vowel Swap                    www.luyuco-v.com.ph     203.119.4.201   �w,                                                 ph    
+Homophones                    www.layeco-v.com.ph     203.119.4.201   AU,AUSTRALIA                                        ph    
+Homophones                    www.lico-v.com.ph       203.119.4.201   o�,                                                 ph    
+Bit Flipping                  7ww.leyeco-v.com.ph     203.119.6.36    ��,                                                 ph    
+Bit Flipping                  gww.leyeco-v.com.ph     203.119.6.36    RO,ROMANIA                                          ph    
+Bit Flipping                  sww.leyeco-v.com.ph     203.119.6.36    KH,CAMBODIA                                         ph    
+Bit Flipping                  uww.leyeco-v.com.ph     203.119.6.36    �r,                                                 ph    
+Bit Flipping                  vww.leyeco-v.com.ph     203.119.6.36    ��,                                                 ph    
+Bit Flipping                  w7w.leyeco-v.com.ph     203.119.6.36    � ,                                                 ph    
+Bit Flipping                  wgw.leyeco-v.com.ph     203.119.6.36    ��,                                                 ph    
+Bit Flipping                  wsw.leyeco-v.com.ph     203.119.6.36    ��,                                                 ph    
+Bit Flipping                  wuw.leyeco-v.com.ph     203.119.6.36    US,UNITED STATES                                    ph    
+Bit Flipping                  wvw.leyeco-v.com.ph     203.119.6.36    � ,                                                 ph    
+Bit Flipping                  ww7.leyeco-v.com.ph     203.119.6.36    BD,BANGLADESH                                       ph    
+Bit Flipping                  wwg.leyeco-v.com.ph     203.119.6.36    � ,                                                 ph    
+Bit Flipping                  wws.leyeco-v.com.ph     203.119.6.36    � ,                                                 ph    
+Bit Flipping                  wwu.leyeco-v.com.ph     203.119.6.36    CN,CHINA                                            ph    
+Bit Flipping                  wwv.leyeco-v.com.ph     203.119.6.36    ˾,                                                 ph     
+Bit Flipping                  www.deyeco-v.com.ph     203.119.4.201   ��,                                                 ph    
+Bit Flipping                  www.heyeco-v.com.ph     203.119.4.201   §�,                                                 ph    
+Bit Flipping                  www.ldyeco-v.com.ph     203.119.4.201   �r,                                                 ph    
+Bit Flipping                  www.le9eco-v.com.ph     203.119.4.201   JP,JAPAN                                            ph    
+Bit Flipping                  www.leieco-v.com.ph     203.119.4.201   NZ,NEW ZEALAND                                      ph    
+Bit Flipping                  www.leqeco-v.com.ph     203.119.4.201   � ,                                                 ph    
+Bit Flipping                  www.lexeco-v.com.ph     203.119.4.201   �;,                                                 ph    
+Bit Flipping                  www.leyaco-v.com.ph     203.119.4.201   AU,AUSTRALIA                                        ph    
+Bit Flipping                  www.leydco-v.com.ph     203.119.4.201   ��,                                                 ph    
+Bit Flipping                  www.leyeao-v.com.ph     203.119.4.201   US,UNITED STATES                                    ph    
+Bit Flipping                  www.leyebo-v.com.ph     203.119.4.201   US,UNITED STATES                                    ph    
+Bit Flipping                  www.leyecg-v.com.ph     203.119.4.201   t ,                                                 ph    
+Bit Flipping                  www.leyeck-v.com.ph     203.119.4.201   KH,CAMBODIA                                         ph    
+Bit Flipping                  www.leyecm-v.com.ph     203.119.4.201   �;,                                                 ph    
+Bit Flipping                  www.leyecn-v.com.ph     203.119.4.201   KH,CAMBODIA                                         ph    
+Bit Flipping                  www.leyeco-6.com.ph     203.119.4.201   CA,CANADA                                           ph    
+Bit Flipping                  www.leyeco-f.com.ph     203.119.4.201   KR,KOREA REPUBLIC OF                                ph    
+Bit Flipping                  www.leyeco-r.com.ph     203.119.4.201   AU,AUSTRALIA                                        ph    
+Bit Flipping                  www.leyeco-t.com.ph     203.119.4.201   �w,                                                 ph    
+Bit Flipping                  www.leyeco-v.aom.ph                     ?                                                   ph    
+Bit Flipping                  www.leyeco-v.bom.ph                     ?                                                   ph    
+Bit Flipping                  www.leyeco-v.cgm.ph                     ?                                                   ph    
+Bit Flipping                  www.leyeco-v.ckm.ph     203.119.4.201   CN,CHINA                                            ph    
+Bit Flipping                  www.leyeco-v.cmm.ph                     ?                                                   ph    
+Bit Flipping                  www.leyeco-v.cnm.ph     203.119.4.201   �<,                                                 ph    
+Bit Flipping                  www.leyeco-v.co-.ph     203.119.4.201   HK,HONG KONG                                        ph    
+Bit Flipping                  www.leyeco-v.coe.ph     203.119.4.201   �<,                                                 ph    
+Bit Flipping                  www.leyeco-v.coi.ph                     ?                                                   ph    
+Bit Flipping                  www.leyeco-v.col.ph     203.119.4.201   �c,                                                 ph    
+Bit Flipping                  www.leyeco-v.com.pl                     ?                                                   pl    
+Bit Flipping                  www.leyeco-v.coo.ph                     ?                                                   ph    
+Bit Flipping                  www.leyeco-v.gom.ph                     ?                                                   ph    
+Bit Flipping                  www.leyeco-v.kom.ph     107.191.42.65                          kom.ph                       ph    
+Bit Flipping                  www.leyeco-v.som.ph     203.119.4.201   JP,JAPAN                                            ph    
+Bit Flipping                  www.leyeco-vncom.ph     203.119.4.201   KH,CAMBODIA                                         ph    
+Bit Flipping                  www.leyeco-w.com.ph     203.119.4.201   AU,AUSTRALIA                                        ph    
+Bit Flipping                  www.leyecomv.com.ph     203.119.4.201   PH,PHILIPPINES                                      ph    
+Bit Flipping                  www.leyego-v.com.ph     203.119.4.201   �w,                                                 ph    
+Bit Flipping                  www.leyeko-v.com.ph     203.119.4.201   �w,                                                 ph    
+Bit Flipping                  www.leyeso-v.com.ph     203.119.4.201   PH,PHILIPPINES                                      ph    
+Bit Flipping                  www.leygco-v.com.ph     203.119.4.201   HK,HONG KONG                                        ph    
+ ,                                                 ph      19.4.201                                                             
+Bit Flipping                  www.leyuco-v.com.ph     203.119.4.201   PH,PHILIPPINES                                      ph    
+Bit Flipping                  www.lgyeco-v.com.ph     203.119.4.201   HK,HONG KONG                                        ph    
+Bit Flipping                  www.lmyeco-v.com.ph     203.119.4.201   PH,PHILIPPINES                                      ph    
+Bit Flipping                  www.luyeco-v.com.ph     203.119.4.201   CA,CANADA                                           ph    
+Bit Flipping                  www.meyeco-v.com.ph     203.119.4.201   PH,PHILIPPINES                                      ph    
+Bit Flipping                  www.neyeco-v.com.ph     203.119.4.201   PH,PHILIPPINES                                      ph    
+Bit Flipping                  wwwnleyeco-v.com.ph     203.119.4.201   PH,PHILIPPINES                                      ph    
+Homoglyphs                    vvvvvv.leyeco-v.com.ph  203.119.6.36    KH,CAMBODIA                                         ph    
+Homoglyphs                    vvvvw.leyeco-v.com.ph   203.119.6.36    KH,CAMBODIA                                         ph    
+Homoglyphs                    vvwvv.leyeco-v.com.ph   203.119.6.36    CN,CHINA                                            ph    
+Homoglyphs                    vvww.leyeco-v.com.ph    203.119.6.36    TR,TURKEY                                           ph    
+Homoglyphs                    wvvvv.leyeco-v.com.ph   203.119.6.36    H5,                                                 ph    
+Homoglyphs                    wvvw.leyeco-v.com.ph    203.119.6.36    FR,FRANCE                                           ph    
+Homoglyphs                    wwvv.leyeco-v.com.ph    203.119.6.36    ,                                                 ph      
+Homoglyphs                    www.1eyeco-v.com.ph     203.119.4.201   HK,HONG KONG                                        ph    
+Homoglyphs                    www.leyec0-v.c0m.ph     54.72.9.51      JP,JAPAN               mail.h-email.net             ph    
+Homoglyphs                    www.leyec0-v.com.ph     203.119.4.201   PH,PHILIPPINES                                      ph    
+Homoglyphs                    www.leyeco-v.c0m.ph     54.72.9.51      US,UNITED STATES       mail.h-email.net             ph    
+Homoglyphs                    www.leyeco-v.corn.ph    203.119.4.201   PH,PHILIPPINES                                      ph    
+Wrong TLD                     com.au                                  ?                                                   com.au
+Wrong TLD                     com.ca                                  ?                                                   ca    
+Wrong TLD                     com.ch                  144.85.10.78    US,UNITED STATES                                    ch    
+Wrong TLD                     com.com                 50.18.204.106   US,UNITED STATES       1.mail.com.com               com   
+Wrong TLD                     com.de                  46.137.111.78   HK,HONG KONG           mx203.inbound-mx.net         de    
+Wrong TLD                     com.edu                 70.32.103.68    US,UNITED STATES       com-edu.mail.eo.outlook.com  edu   
+Wrong TLD                     com.es                                  ?                                                   es    
+Wrong TLD                     com.fr                                  ?                                                   fr    
+Wrong TLD                     com.it                                  ?                                                   it    
+Wrong TLD                     com.jp                                  ?                                                   jp    
+Wrong TLD                     com.net                 94.74.180.1     BD,BANGLADESH          p.webcom.ctmail.com          net   
+Wrong TLD                     com.nl                  83.98.157.102   NL,NETHERLANDS         s2.dancoware.nl              nl    
+Wrong TLD                     com.no                                  ?                                                   no    
+Wrong TLD                     com.org                 23.23.86.44     US,UNITED STATES       0.0.0.0                      org   
+Wrong TLD                     com.ru                  178.210.74.11   RU,RUSSIAN FEDERATION                               ru    
+Wrong TLD                     com.se                  193.13.133.90   CN,CHINA               mx02.glesys.se               se    
+Wrong TLD                     com.us                                  ?                                                   us    
